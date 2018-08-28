@@ -1,0 +1,7 @@
+E:\ITVDN\C# Professional renewed\HomeWork\Lesson16\WindowsService1\bin\Debug\WindowsService1.exe.config
+E:\ITVDN\C# Professional renewed\HomeWork\Lesson16\WindowsService1\bin\Debug\WindowsService1.exe
+E:\ITVDN\C# Professional renewed\HomeWork\Lesson16\WindowsService1\bin\Debug\WindowsService1.pdb
+E:\ITVDN\C# Professional renewed\HomeWork\Lesson16\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+E:\ITVDN\C# Professional renewed\HomeWork\Lesson16\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+E:\ITVDN\C# Professional renewed\HomeWork\Lesson16\WindowsService1\obj\Debug\WindowsService1.exe
+E:\ITVDN\C# Professional renewed\HomeWork\Lesson16\WindowsService1\obj\Debug\WindowsService1.pdb
